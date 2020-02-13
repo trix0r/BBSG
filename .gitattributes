@@ -1,0 +1,2 @@
+*.m diff=matlab
+*.mex[wa]64 filter=lfs diff=lfs merge=lfs -text
